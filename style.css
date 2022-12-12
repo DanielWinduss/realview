@@ -1,0 +1,32 @@
+html,body { 
+    margin:0; 
+    padding:0; 
+    height:100%; 
+    width:100%; 
+}
+
+.carousel-one {
+    padding: 0;
+    display: block;
+    width: 100%;
+    height: 1920px;
+    background-color: orangered;
+}
+
+.carousel-two {
+    display: block;
+    width: 100%;
+    height: 1920px;
+    background-color: yellowgreen;
+}
+
+.carousel-three {
+    display: block;
+    width: 100%;
+    height: 1920px;
+    background-color: blueviolet;
+}
+
+.p-3 {
+    padding: 0 !important;
+}
